@@ -34,14 +34,6 @@
 				"Mac",
 				"Linux"
 			]
-		},
-		{
-			"Name": "SteamVR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
-			]
 		}
 	],
 	"TargetPlatforms": [
